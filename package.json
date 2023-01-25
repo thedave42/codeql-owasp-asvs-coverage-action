@@ -1,0 +1,22 @@
+{
+  "name": "codeql-owasp-asvs-coverage-action",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedave42/codeql-owasp-asvs-coverage-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedave42/codeql-owasp-asvs-coverage-action/issues"
+  },
+  "homepage": "https://github.com/thedave42/codeql-owasp-asvs-coverage-action#readme",
+  "devDependencies": {
+    "@vercel/ncc": "^0.36.1"
+  }
+}
